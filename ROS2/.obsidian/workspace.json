@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "5aff4fa1572e3989",
+    "type": "split",
+    "children": [
+      {
+        "id": "7054a6fd43d3ed21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d527f8251b90d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create pkg/Create pkg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create pkg"
+            }
+          },
+          {
+            "id": "8d92aae7e7096f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create pkg/Create pkg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create pkg"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59563c31621949fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "76fb4410be8e21b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e09e18a61c855ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de6c28313dc8871b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e7012166e660235",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e42abc0bf21d2882",
+    "type": "split",
+    "children": [
+      {
+        "id": "609c7d4a2ec1790e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5175748814df244e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Create pkg.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Create pkg"
+            }
+          },
+          {
+            "id": "1f75a8e6a435d873",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Create pkg.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Create pkg"
+            }
+          },
+          {
+            "id": "9bc601ad76ebd105",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "00dcf243bc7d3a5a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4210229857a2a4a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Create pkg.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Create pkg"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8d92aae7e7096f44",
+  "lastOpenFiles": [
+    "rlspy API/Шаблоны/responce.py.md",
+    "rlspy API/Шаблоны/responce.py",
+    "rlspy API/Шаблоны/request.py",
+    "Create pkg/Create pkg.md",
+    "rlspy API/Шаблоны/hello.py.md",
+    "rlspy API/Шаблоны/hello.cpp.md",
+    "Create pkg/Entry_point.md",
+    "Create pkg",
+    "rlspy API/Docs.md",
+    "rlspy API/Шаблоны",
+    "rlspy API",
+    "Welcome.md"
+  ]
+}
