@@ -1,4 +1,4 @@
-```python
+```
 #!/usr/bin/env python3
 
 # -*- coding: utf-8 -*-
@@ -23,31 +23,31 @@ node.get_logger().info('Node started, publishing to "hello" topic')
 
 # Создаем таймер для публикации с частотой 10 Гц
 
-	def timer_callback():
-	
-	msg = String()
-	
-	msg.data = 'hello world!'
-	
-	publisher.publish(msg)
-	
-	node.get_logger().info(f'Published: {msg.data}')
-	
+def timer_callback():
+
+msg = String()
+
+msg.data = 'hello world!'
+
+publisher.publish(msg)
+
+node.get_logger().info(f'Published: {msg.data}')
+
 timer = node.create_timer(0.1, timer_callback) # 0.1 сек = 10 Гц
 
 try:
 
-	rclpy.spin(node)
+rclpy.spin(node)
 
 except KeyboardInterrupt:
 
-	node.get_logger().info('Node stopped')
+node.get_logger().info('Node stopped')
 
 finally:
 
-	node.destroy_node()
+node.destroy_node()
 
-	rclpy.shutdown()
+rclpy.shutdown()
 
   
 
