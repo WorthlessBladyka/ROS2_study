@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rlspy API/Шаблоны/hello.py.md",
+                "file": "rlspy API/Docs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello.py"
+              "title": "Docs"
+            }
+          },
+          {
+            "id": "41d9d2845a5ccef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Themes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -198,17 +214,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "8d92aae7e7096f44",
+  "active": "41d9d2845a5ccef8",
   "lastOpenFiles": [
-    "Create pkg/Create pkg.md",
-    "rlspy API/Шаблоны/hello.py.md",
+    "rlspy API/Docs.md",
+    "Themes.md",
     "rlspy API/Шаблоны/responce.py.md",
+    "rlspy API/Шаблоны/hello.cpp.md",
+    "rlspy API/Шаблоны/hello.py.md",
+    "Create pkg/Create pkg.md",
     "rlspy API/Шаблоны/responce.py",
     "rlspy API/Шаблоны/request.py",
-    "rlspy API/Шаблоны/hello.cpp.md",
     "Create pkg/Entry_point.md",
     "Create pkg",
-    "rlspy API/Docs.md",
     "rlspy API/Шаблоны",
     "rlspy API",
     "Welcome.md"
